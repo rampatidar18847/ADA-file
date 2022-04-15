@@ -1,6 +1,6 @@
 // Problem : Binary Search.
-// Name : Rajesh Patidar.
-// Enrollment NO. = 0827CS201197.
+// Name : Ram Patidar.
+// Enrollment NO. = 0827CS201196.
 
 #include <iostream>
 using namespace std;
